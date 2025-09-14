@@ -58,7 +58,7 @@ This project is a **prototype** but can scale into a **global book-finding syste
 ![detected_books](https://github.com/user-attachments/assets/87d0fcf0-eeaa-44f7-817d-e673872f45ff)
 
 ### Terminal
-![highlighted_output](https://github.com/user-attachments/assets/bd9377fb-661e-4f5b-a265-cce197c38d77)
+<img width="518" height="224" alt="terminal" src="https://github.com/user-attachments/assets/4d5ffa35-34c7-4586-b96b-a73975bebfe8" />
 
 
 ### Locate the book
